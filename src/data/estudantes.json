@@ -1,0 +1,16 @@
+[
+    {
+        "id":"003", 
+        "name":"Carina Silva",
+        "email":"carina@gmail.com",
+        "data_nasc":"1989-04-25",
+        "turma_id":"002"
+    },
+    {
+        "id":"004", 
+        "name":"Pedro Silva",
+        "email":"pedro@gmail.com",
+        "data_nasc":"1989-04-28",
+        "turma_id":"001"
+     }  
+] 

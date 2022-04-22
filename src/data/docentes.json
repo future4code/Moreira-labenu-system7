@@ -1,0 +1,16 @@
+[
+    {
+        "id":"003", 
+        "name":"Gabriel Mina",
+        "email":"gabriel@gmail.com",
+        "data_nasc":"1989-04-30",
+        "docentes_id":"002"
+    },
+    {
+        "id":"004", 
+        "name":"Flavio Monteiro",
+        "email":"flavio@gmail.com",
+        "data_nasc":"1989-04-01",
+        "docentes_id":"001"
+     }  
+] 

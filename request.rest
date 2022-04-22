@@ -1,3 +1,25 @@
 
-GET  http://localhost:3003/ping
+GET  http://localhost:3003/turma
 content-type: application/json
+
+###
+
+POST  http://localhost:3003/turma/add
+content-type: application/json
+
+{
+       "name": "Medeiros",
+       "modulo": "0"
+}
+
+
+###
+
+
+PUT  http://localhost:3003/turma/trocamodulo
+content-type: application/json
+
+{
+       "id": "001",
+       "modulo": "5"
+}
